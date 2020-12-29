@@ -2,7 +2,7 @@
 A web page to give the recommendation of sport and entertainment events for users <br>
 
 
-The work I did:<br>
+Introduction:<br>
 
 ⚫ Developed an interactive web page (HTML, CSS, JavaScript, AJAX) to find nearby events and provide personalized recommendation for users.<br>
 ⚫ Built Java servlets with RESTful APIs to handle HTTP operation (requests and responses).<br>
